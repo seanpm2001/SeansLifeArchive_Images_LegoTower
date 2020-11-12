@@ -1,6 +1,15 @@
 
 ***
 
+# Lego Tower
+
+![LegoTower_Logo.jpeg](LegoTower_Logo.jpeg)
+
+# By:
+
+![NimbleBit_Logo.png](NimbleBit_Logo.png)
+
+
 ### Top
 
 # `README.md`
@@ -25,11 +34,23 @@
 
 [07.0 - Contributing](#Contributing)
 
-[08.0 - About README](#About-README)
+[08.0 - Issues](#Issues)
 
-[09.0 - README Version history](#README-version-history)
+> [08.1 - Current issues](#Current-issues)
 
-[10.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [08.2 - Past issues](#Past-issues)
+
+> [08.3 - Past pull requests](#Past-pull-requests)
+
+> [08.4 - Active pull requests](#Active-pull-requests)
+
+[09.0 - Resources](#Resources)
+
+[10.0 - About README](#About-README)
+
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -41,6 +62,11 @@ The module for my life story project that contains my Lego Tower gameplay images
 ## About
 
 See above
+See above. This repository hosts all weekly Lego Tower session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=com.nimblebit.legotower&hl=en_US&gl=US) there is a version available for iOS. It is listed below
+
+These weekly pictures are to be used for progress monitoring, but can also be used as stock images.
+
+I started playing Lego Tower during my 2020 NimbleBit fan phase. It is a decent game.
 
 ***
 
@@ -62,7 +88,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 19 commits (As of Wednesday, September 23rd 2020 at 4:30 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 94 commits (As of Thursday, November 12th 2020 at 11:56 am)
 
 > * 2. No other contributers.
 
@@ -72,7 +98,53 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_LegoTower/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+
+***
+
+## Issues
+
+### Current issues
+
+None at the moment
+
+### Past issues
+
+None at the moment
+
+### Past pull requests
+
+None at the moment
+
+### Active pull requests
+
+None at the moment
+
+***
+
+## Resources
+
+Here are some other resources for this project:
+
+[Project language file](LANG.boo)
+
+[Lego Tower on the Apple App store)](https://apps.apple.com/us/app/lego-tower/id1433811063)
+
+[Download an APK of Lego Tower using APKPure](https://apkpure.com/lego%C2%AE-tower/com.nimblebit.legotower)
+
+[Wikipedia article on Lego Tower (doesn't exist)](https://en.wikipedia.org)
+
+[Lego Tower wiki (WARNING: NO HTTPS CONNECTION)](http://lego.towerwiki.com/wiki/Main_Page)
+
+[NimbleBit website](http://nimblebit.com/)
+
+### Images
+
+[Lego TOwer app icon (jpeg)](LegoTower_Logo.jpeg)
+
+[NimbleBit Logo (png)](NimbleBit_Logo.png)
+
+No other resources at the moment.
 
 ***
 
@@ -80,9 +152,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, September 23rd 2020 at 4:30 pm)`
+File version: `2 (Thursday, November 12th 2020 at 11:56 pm)`
 
-Line count: `0,132`
+Line count: `0,232`
 
 ***
 
@@ -114,13 +186,41 @@ Version 1 (Wednesday, September 23rd 2020 at 4:30 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Thursday, November 12th 2020 at 11:56 am)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
