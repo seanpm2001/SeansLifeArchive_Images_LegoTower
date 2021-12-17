@@ -1,6 +1,7 @@
 android
 pictures
 screenshots
+video-games
 jpg
 gaming
 gplv3
@@ -11,6 +12,7 @@ stock-images
 md
 txt
 gpl3
+mobile-gaming
 seanpm2001-life-archive
 git-image
 nimblebit
