@@ -5,24 +5,150 @@
 # .gitattributes
 # and nothing else, no characters before, no characters after
 # Start of linguist script
-# Boo (duplicate)
-*.boo linguist-detectable=true
-*.boo linguist-documentation=false
-# Makefile (duplicate)
-*.mk linguist-detectable=true
-*.mk linguist-documentation=false
 # YAML
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
+*.yml linguist-language=YAML
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
+*.yaml linguist-language=YAML
+# JSON
+*.json linguist-detectable=false
+*.json linguist-documentation=false
+*.json linguist-language=JSON
+# HTML5
+*.htm linguist-detectable=false
+*.htm linguist-documentation=false
+*.htm linguist-language=HTML
+*.html linguist-detectable=false
+*.html linguist-documentation=false
+*.html linguist-language=HTML
+*.mhtm linguist-detectable=false
+*.mhtm linguist-documentation=false
+*.mhtm linguist-language=HTML
+*.mhtml linguist-detectable=false
+*.mhtml linguist-documentation=false
+*.mhtml linguist-language=HTML
+*.xhtm linguist-detectable=false
+*.xhtm linguist-documentation=false
+*.xhtm linguist-language=HTML
+*.xhtml linguist-detectable=false
+*.xhtml linguist-documentation=false
+*.xhtml linguist-language=HTML
+# HTML Application
+*.hta linguist-detectable=false
+*.hta linguist-documentation=false
+*.hta linguist-language=HTML
+# ReStructuredText
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+*.rst linguist-language=reStructuredText
+# WebVTT
+*.vtt linguist-detectable=false
+*.vtt linguist-documentation=false
+*.vtt linguist-language=WebVTT
+# WikiText (MediaWiki)
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
+*.wiki linguist-language=Wikitext
+# Boo
+*.boo linguist-detectable=true
+*.boo linguist-documentation=false
+*.boo linguist-language=Boo
+# Eiffel
+*.e linguist-detectable=true
+*.e linguist-documentation=false
+*.e linguist-language=Eiffel
+# Nim
+*.nim linguist-detectable=true
+*.nim linguist-documentation=false
+*.nim linguist-language=Nim
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.md linguist-language=Markdown
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mkd linguist-language=Markdown
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.mdown linguist-language=Markdown
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+*.markdown linguist-language=Markdown
+# Makefile
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mk linguist-language=Makefile
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.mak linguist-language=Makefile
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.make linguist-language=Makefile
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+*.makefile linguist-language=Makefile
+# INI/CFG
+*.ini linguist-detectable=false
+*.ini linguist-documentation=false
+*.ini linguist-language=INI
+*.cfg linguist-detectable=false
+*.cfg linguist-documentation=false
+*.cfg linguist-language=INI
+# KDE Desktop entry
+*.desktop linguist-detectable=false
+*.desktop linguist-documentation=false
+*.desktop linguist-language=desktop
+# Citation File Format (CFF)
+*.cff linguist-detectable=false
+*.cff linguist-documentation=false
+*.cff linguist-language=Citation-File-Fomat
+# Plain Text
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+*.txt linguist-language=Text
+# LaTeX/TeX
+*.tex linguist-detectable=false
+*.tex linguist-documentation=false
+*.tex linguist-language=TeX
+# BibTeX
+*.bib linguist-detectable=false
+*.bib linguist-documentation=false
+*.bib linguist-language=BibTeX
+# Gitconfig
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
+*.editorconfig linguist-language=Editorconfig
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.gitignore linguist-language=Ignore list
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitattributes linguist-language=Gitattributes
+# PNG
+*.png linguist-detectable=false
+*.png linguist-documentation=false
+*.png linguist-language=PNG
+# JPG/JPEG
+*.jpg linguist-detectable=false
+*.jpg linguist-documentation=false
+*.jpg linguist-language=JPEG
+*.jpeg linguist-detectable=false
+*.jpeg linguist-documentation=false
+*.jpeg linguist-language=JPEG
+# GIF
+*.gif linguist-detectable=false
+*.gif linguist-documentation=false
+*.gif linguist-language=GIF
+# SVG
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+*.svg linguist-language=SVG
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 1 (Thursday, August 19th 2021 at 4:51 pm)
-# Line count (including blank lines and compiler line): 29
+# File version: 2 (2022, Wednesday, July 6th at 6:54 pm PST)
+# Line count (including blank lines and compiler line): 155
 # End of script
